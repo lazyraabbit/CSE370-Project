@@ -2,7 +2,7 @@
 
 ## Introduction
 
-UniTask is a comprehensive web platform built specifically to connect students with freelance work and job opportunities. The application serves as a secure, verified marketplace where clients and students can post jobs, apply for tasks, and manage the entire workflow from initial contact to final payment. The backend infrastructure relies on Supabase for database and authentication needs, while the application is hosted on Vercel.
+UniTask is a comprehensive web platform built specifically to connect students with freelance work and job opportunities. The application serves as a secure, verified marketplace where clients and students can post jobs, apply for tasks, and manage the entire workflow from initial contact to final payment.
 
 ## Target Audience
 
